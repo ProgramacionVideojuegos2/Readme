@@ -42,10 +42,12 @@
 * Lección 2
   * > Prototipo 02 
   * ><a href="https://github.com/ProgramacionVideojuegos2/Prototipo2">Link de descarga</a>
+  * > Challenge 02
+  * ><a href="https://drive.google.com/file/d/1KOt6STHgu4tdutK5GIa1mANZleBJCSdU/view?usp=drive_link">Link de descarga</a>
 * Lección 3
   * > Prototipo 03
-  * ><a href="https://drive.google.com/file/d/1a47Wwyd1E_GUdwKoWeOHWNvQJTWL66zk/view?usp=sharing"></a>
-  * > Desafío
+  * ><a href="https://drive.google.com/file/d/1ZItp5_0zNKpd7dn8CFqSs7FH3O_dcneP/view?usp=drive_link"></a>
+  * > Documentación
   * ><a href="https://drive.google.com/file/d/1a47Wwyd1E_GUdwKoWeOHWNvQJTWL66zk/view?usp=sharing">PDF</a>
 * Lección 4
   * > Tutorial
