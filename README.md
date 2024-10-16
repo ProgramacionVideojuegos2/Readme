@@ -42,9 +42,9 @@
   * ><a href="https://github.com/ProgramacionVideojuegos2/Prototipo2">Link de descarga</a>
 * Lección 3
   * > Prototipo 03
-  * > Laboratorio
+  * ><a href="https://drive.google.com/file/d/1a47Wwyd1E_GUdwKoWeOHWNvQJTWL66zk/view?usp=sharing"></a>
   * > Desafío
-  * > Prueba
+  * ><a href="https://drive.google.com/file/d/1a47Wwyd1E_GUdwKoWeOHWNvQJTWL66zk/view?usp=sharing">PDF</a>
 * Lección 4
   * > Tutorial
   * > Laboratorio
