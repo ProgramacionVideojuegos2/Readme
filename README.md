@@ -23,8 +23,8 @@
 
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
+- Portal Walker
+- Objetivo: Es un juego de aventura donde tendrás oportunidad de visitar diferentes mundos con la intención de ofrecer una experiencia divertida para liberar la tensión del día o simplemente pasar un rato divertido.
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
 - Historia
 - Personajes
