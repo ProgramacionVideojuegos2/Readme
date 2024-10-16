@@ -39,7 +39,7 @@
   * ><a href="https://github.com/ProgramacionVideojuegos2/Prototipo-1/tree/main">Link de descarga</a>
 * Lección 2
   * > Prototipo 02 
-  * ><a href="https://reponame/issues/new?template=bug.md">Link de descarga</a>
+  * ><a href="https://github.com/ProgramacionVideojuegos2/Prototipo2">Link de descarga</a>
 * Lección 3
   * > Prototipo 03
   * > Laboratorio
@@ -55,6 +55,10 @@
   * > Laboratorio
   * > Desafío
   * > Prueba
+*Challenge 01
+ * > El Challenge 01 se ubica en el prototipo-1>Assets.
+Saludos
+   
 * VideoJuego
 
 ## Planificación
@@ -62,7 +66,7 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Bill Gates & Steve Jobs
+Alma Gisela Serna Camarillo
 
 ## Copyright
-Derechos Reservados 2022
+Derechos Reservados 2024
