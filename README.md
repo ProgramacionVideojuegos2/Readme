@@ -55,7 +55,7 @@
   * > Laboratorio
   * > Desafío
   * > Prueba
-*Challenge 01
+* Challenge 01
  * > El Challenge 01 se ubica en el prototipo-1>Assets.
 Saludos
    
